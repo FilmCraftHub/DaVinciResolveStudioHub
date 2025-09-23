@@ -6,7 +6,7 @@
 
 📽️ Master professional video editing with DaVinci Resolve 19 in 2025! This repository offers tutorials, resources, and tips for creators to explore DaVinci Resolve’s tools for editing, color grading, and visual effects. Join our community of filmmakers and editors to elevate your projects!  
 
-<a href="https://filmcrafthub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/brNt7eIs" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-9b6_%E2%86%92_3498db?style=gradient" alt="Install Guide Now" width="230height="45 style="border:none;">
 </a>
 
@@ -22,7 +22,7 @@
 - ✅ **Community Hub**: Connect with video editors and creators.  
 - ✅ **Workflow Tips**: Optimize your editing process.  
 
-<a href="https://filmcrafthub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/brNt7eIs" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-9b6_%E2%86%92_3498db?style=gradient" alt="Install Guide Now" width="230height="45 style="border:none;">
 </a>
 
@@ -34,7 +34,7 @@
 - **Processor**: Multi-core Intel/AMD (3.0GHz+)  
 - **Graphics**: NVIDIA/AMD GPU with 4GB VRAM (8GB recommended)  
 
-<a href="https://filmcrafthub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/brNt7eIs" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-9b6_%E2%86%92_3498db?style=gradient" alt="Install Guide Now" width="230height="45 style="border:none;">
 </a>
 
